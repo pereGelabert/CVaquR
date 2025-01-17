@@ -7,5 +7,5 @@ Pasos:
 4. Descarregar CV perfil de la WoS en format JSON i carregar-lo a linia `dataJSON <- fromJSON(...)`
 5. Carregar BBDD SJR i JRC (accesibles via FECYT)
 6. Solicitar API kei a https://dev.elsevier.com/apikey/manage i inserir-la a la línia `scopus_key <- "..."`
-7. 
+7. Executar tot el codi `CV_aquR_exe.R`
 
