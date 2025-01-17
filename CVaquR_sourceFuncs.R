@@ -1,14 +1,5 @@
 # Funció per obtenir dades bàsiques del DOI utilitzant CrossRef
 get_crossref_data <- function(doi) {
-  library(rcrossref)
-  library(tidyverse)
-  library(httr)
-  library(jsonlite)
-  library(RefManageR)
-  library(rscopus)
-  library(readr)
-  library(lubridate)
-  library(writexl)
   response <- cr_works(dois = doi)
   if (!is.null(response$data)) {
     data <- response$data
