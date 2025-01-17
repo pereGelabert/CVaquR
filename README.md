@@ -1,4 +1,4 @@
-**Paquet d'R per accedir a dades bibliometriques adaptat per generar la secció B del curriculum AQU**
+**Codi d'R per accedir a dades bibliometriques adaptat per generar la secció B del curriculum AQU**
 
 Pasos:
 1. Descarregar tot el repositori
