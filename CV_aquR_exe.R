@@ -16,7 +16,7 @@ load("D:/OneDrive - udl.cat/Altres/SJR_data.RData")
 load("D:/OneDrive - udl.cat/Altres/JCR_data.RData")
 
 # Configura la teva clau API (per a WoS, Scopus, etc.)
-scopus_key <- "7733665b865da28bfc36dbe1690941e7"
+scopus_key <- ""
 
 dataJSON <- fromJSON("./PereJoanGelabert_Web_of_Science_Researcher_CV_20250117.json")
 dois <- dataJSON$records$publication$list$doi
