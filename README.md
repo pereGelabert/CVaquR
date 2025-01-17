@@ -1,7 +1,7 @@
 **Codi d'R per accedir a dades bibliometriques adaptat per generar la secció B del curriculum AQU**
 
 Pasos:
-1. Descarregar tot el repositori
+1. Descarregar tot el repositori i descomprimir-lo
 2. Obrir `CV_aquR_exe.R`
 3. Establir working directory a la funció setwd() a la carpeta descomprimida descomprimida
 4. Descarregar CV perfil de la WoS en format JSON i carregar-lo a linia `dataJSON <- fromJSON(...)`
