@@ -1,6 +1,6 @@
 **Codi d'R per accedir a dades bibliometriques adaptat per generar la secció B del curriculum AQU**
 
-***Nota:*** *S'ha d'executar dins la xarxa de la institució o amb conexxió via VPN*
+***Nota:*** *S'ha d'executar dins la xarxa de la institució o amb conexió via VPN*
 
 Pasos:
 1. Descarregar tot el repositori i descomprimir-lo
